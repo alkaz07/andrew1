@@ -1,6 +1,7 @@
 def main():
     print('hello world')
-    print('version 2')
+    print('abcd')
+    print('version 3')
 
 
 if __name__ == '__main__':
